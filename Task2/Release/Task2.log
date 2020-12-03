@@ -1,0 +1,9 @@
+﻿  Task2.c
+C:\Users\79537\source\repos\lab_rab3\Task2\Task2.c(15,18): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\79537\source\repos\lab_rab3\Task2\Task2.c(12,6): warning C4101: j: неиспользованная локальная переменная
+C:\Users\79537\source\repos\lab_rab3\Task2\Task2.c(11,6): warning C4101: i: неиспользованная локальная переменная
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Task2.vcxproj -> C:\Users\79537\source\repos\lab_rab3\Release\Task2.exe

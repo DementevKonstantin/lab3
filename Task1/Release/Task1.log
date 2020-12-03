@@ -1,0 +1,7 @@
+﻿  Task1.c
+C:\Users\79537\source\repos\lab_rab3\Task1\Task1.c(20,18): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 9 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Task1.vcxproj -> C:\Users\79537\source\repos\lab_rab3\Release\Task1.exe
